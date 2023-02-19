@@ -1,4 +1,8 @@
-﻿char sex = 'F';
+﻿// "F" - Female
+// "M" - Male
+
+
+char sex = 'F';
 int age = 25;
 
 if(sex == 'F' && age<30)
